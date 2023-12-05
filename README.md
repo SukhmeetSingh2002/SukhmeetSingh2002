@@ -9,8 +9,8 @@
 - 👯 Looking forward to collaborate on some amazing projects  
 - 📫 How to reach me: 
  
-  <a href="mailto:"  target="_blank" > <img width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png"></a>
-<a href="https://www.linkedin.com/in/sukhmeet-singh-850626225/" target="_blank" >  <img width="40" height="40" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-1024.png"> </a>
+  <a href="mailto:sukhmeet@sukhmeetsingh.me"  target="_blank" > <img width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png"></a>
+<a href="https://www.linkedin.com/in/sukhmeet-singh-cse/" target="_blank" >  <img width="40" height="40" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-1024.png"> </a>
 <a href="https://www.instagram.com"  target="_blank" > <img width="40" height="40" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png"></a>
 
 ### Tech Stack:
